@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodOnItsWay</string>
+    <string name="foodonitsway">FoodOnItsWay</string>
+    <string name="SignUp">Don\'t have an Account? SignUp Now!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">LogIn</string>
+</resources>

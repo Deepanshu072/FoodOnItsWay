@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/colorPrimary">
+    <ImageView
+        android:id="@+id/imgappicon"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/logo"
+        android:layout_centerVertical="true"
+        />
+
+    <TextView
+        android:id="@+id/appName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FeedTheNeedy(FTN)"
+        android:textSize="40sp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_below="@+id/imgappicon"
+        android:layout_centerInParent="true"
+        android:fontFamily="sans-serif-black"
+        android:foregroundGravity="center"
+        />
+
+
+
+
+</RelativeLayout>
